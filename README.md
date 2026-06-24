@@ -1,37 +1,34 @@
-<h1 align="center">Hey 👋, I'm Muhammed Adhil</h1>
+<h1 align="center">Muhammed Adhil KR</h1>
 
 <p align="center">
-  🚀 AI/ML Developer • MERN Learner • Flutter Builder  
+  <b>AI/ML Engineer • Full Stack Developer • Problem Solver</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Powered+Apps;Django+%7C+Flutter+%7C+MERN;Clean+Code+%2B+Smart+UI;Consistency+over+Perfection" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 🎓 MCA Student  
-- 🤖 AI/ML Developer with real-world projects  
-- 🌐 Full Stack Learner (Django + MERN)  
-- 📱 Flutter App Developer  
-- 📊 Love building analytics dashboards & intelligent systems  
-- ⚡ Strong believer in **consistency > motivation**
-
----
-
-## 🚀 Tech Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,java,c,react,nodejs,django,flutter,mongodb,mysql,pytorch,git,vscode&theme=dark" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Full+Stack+Development;Building+Real+World+Applications;Django+%2B+Flutter+%2B+MERN;Focused+on+Impact+%26+Growth" />
 </p>
 
 ---
 
-## 📊 GitHub Power Stats
+## 🧠 About Me (Recruiter Snapshot)
+
+- 🎓 MCA Student | AI/ML Specialist  
+- 🚀 Built production-level ML & Web Applications  
+- 💻 Strong in Python, Django, ML Models, APIs  
+- 🤖 Experience with NLP (BERT), Analytics Dashboards  
+- 🔥 Passion for solving real-world problems using AI  
+
+---
+
+## 🧊 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,react,nodejs,django,flutter,mongodb,mysql,pytorch,git,vscode&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Adhil-KR&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -44,45 +41,55 @@
 
 ---
 
-## 🧩 Featured Work
+## 📌 Key Projects
 
-### 🧠 AI Career Guidance System
-> ML-powered career prediction + course recommendation + job portal  
-- CV-based prediction  
-- Personality-driven suggestions  
-- Flutter + Django integration  
+### 🤖 AI Career Guidance System
+- ML-based career prediction using CV  
+- Course recommendation engine  
+- Job application + resume system  
+- Tech: Django + ML + Flutter  
 
 ---
 
 ### 📰 Fake News Detector
-> Transformer-based NLP system (BERT)  
-- Built with PyTorch + HuggingFace  
-- Real-time prediction UI using Streamlit  
+- Built using BERT (Transformer Model)  
+- Detects fake vs real news  
+- Streamlit UI for predictions  
+- Tech: PyTorch + HuggingFace  
 
 ---
 
 ### 📊 Restaurant Analytics System
-> Business intelligence dashboard  
-- Revenue insights 📈  
-- KPI tracking  
-- Django backend system  
+- Business dashboard with KPIs  
+- Revenue insights & trend analysis  
+- Backend-heavy Django system  
 
 ---
 
-## 🧭 Developer DNA
+## 🎯 Recruiter Highlights
+
+- ✔ Strong foundation in Data Structures & DBMS  
+- ✔ Hands-on with AI/ML + Full Stack Projects  
+- ✔ Experience building end-to-end applications  
+- ✔ Good understanding of APIs & Backend Systems  
+- ✔ Quick learner with strong problem-solving skills  
+
+---
+
+## 🧭 Developer Mindset
 
 <p align="center">
-  
-![Clean Code](https://img.shields.io/badge/Clean_Code-Always-blue?style=for-the-badge)
-![Consistency](https://img.shields.io/badge/Consistency-Daily-success?style=for-the-badge)
-![Curiosity](https://img.shields.io/badge/Curiosity-High-orange?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-Never_Stops-red?style=for-the-badge)
+
+<img src="https://img.shields.io/badge/Consistency-Daily-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean_Code-Always-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Always_Learning-Yes-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem_Solving-Strong-red?style=for-the-badge" />
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake (LIVE)
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/Muhammed-Adhil-KR/Muhammed-Adhil-KR/blob/output/github-contribution-grid-snake.svg" />
@@ -103,16 +110,16 @@
 
 ---
 
-## 💭 Dev Quote
+## 💡 Dev Philosophy
 
 <p align="center">
-  
-> *"Progress in tech comes from showing up every single day."*
+
+<i>"Consistency and real-world building create great developers."</i>
 
 </p>
 
 ---
 
 <p align="center">
-  ⚡ <b>Consistency beats intensity.</b>
+  ⚡ <b>Open to opportunities • Let’s build something impactful</b>
 </p>
