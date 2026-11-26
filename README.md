@@ -1,219 +1,179 @@
-<!--
-  Muhammed Adhil KR | GitHub Profile
--->
+# Muhammed Adhil KR
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:164E63,100:0E7490&height=180&section=header&text=MUHAMMED%20ADHIL%20KR&fontSize=38&fontColor=E2F3F7&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20AI%2FML%20ENTHUSIAST&descSize=13&descAlignY=67&descColor=94A3B8" width="100%" alt="Muhammed Adhil KR"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;MCA+Student+%7C+Data+Science+%26+AI;Building+Practical+Software+Solutions" alt="Typing SVG" />
 
-  <br/>
+  <p>
+    <b>AI/ML Enthusiast | Full Stack Developer | Problem Solver</b>
+  </p>
+
+  <p>
+    MCA student specializing in Data Science and Artificial Intelligence.<br/>
+    Interested in building intelligent applications and solving real-world problems through technology.
+  </p>
 
   <a href="https://github.com/Muhammed-Adhil-KR">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="http://www.linkedin.com/in/Muhammed-Adhil-KR">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mhdadhil346@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="100%">
-
-### A little about me
-
-<sub>01 / THE DEVELOPER</sub>
-
-# Code meets curiosity.
-
-I'm Muhammed Adhil KR — an MCA student specializing in Data Science and Artificial Intelligence at Mar Athanasius College of Engineering.
-
-My work sits between software development and intelligent systems. I enjoy turning ideas into applications, exploring how data can support better decisions, and building things that are useful beyond the screen.
-
-From developing web applications to experimenting with machine learning, I’m interested in understanding the problem first and finding the right technology to solve it.
-
-<sub>Currently focused on building better applications, strengthening my development skills, and exploring practical AI/ML solutions.</sub>
-
-</td>
-</tr>
-</table>
-
-## Selected work <sub> / 04 projects</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 — SmartSolar
-
-<sub>AI / ML · ENERGY</sub>
-
-**Intelligent Decision Support System for Solar Energy**
-
-Predicts next-day household solar generation and translates the forecast into useful energy decisions.
-
-- Appliance scheduling recommendations
-- Battery and grid usage suggestions
-- Estimated cost savings and CO₂ reduction
-
-`Python` `Django` `ML` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-### 02 — FoundIt
-
-<sub>MOBILE · CAMPUS</sub>
-
-**Campus Lost & Found Application**
-
-A Flutter application that helps students report and discover lost or found belongings on campus.
-
-- Post lost and found items
-- Share location, date, and item details
-- Manage posts and mark items as resolved
-
-`Flutter` `Firebase` `Firestore`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 — Pathway AI
-
-<sub>AI / ML · CAREER GUIDANCE</sub>
-
-**AI-Based Career Guidance System**
-
-Helps students explore suitable career paths through CV-based prediction and personalized recommendations.
-
-- ML-based career prediction
-- Course, college, and job recommendations
-- Job application modules
-
-`Python` `Django` `Flutter` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 04 — Fitness Tracker
-
-<sub>FULL STACK · WELLNESS</sub>
-
-**Fitness Tracking Application**
-
-A web application for tracking daily activities, monitoring fitness goals, and managing personal health metrics.
-
-- Activity logging and goal management
-- User authentication
-- Interactive fitness dashboard
-
-`React` `Node.js` `Express` `MySQL`
-
-</td>
-</tr>
-</table>
-
-## The tools I work with
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<sub>01 / LANGUAGES</sub>
-
-**Python · Java · JavaScript**
-
-C · C++
-
-</td>
-<td width="50%" valign="top">
-
-<sub>02 / WEB & MOBILE</sub>
-
-**Django · React · Flutter**
-
-Node.js · Express · HTML · CSS
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub>03 / DATABASES</sub>
-
-**MySQL · MongoDB**
-
-Firebase Firestore
-
-</td>
-<td width="50%" valign="top">
-
-<sub>04 / DEVELOPMENT</sub>
-
-**Git · GitHub · VS Code**
-
-Linux
-
-</td>
-</tr>
-</table>
-
-## Experience
-
-<table>
-<tr>
-<td width="100%">
-
-<sub>AI / MACHINE LEARNING · MAY — JULY 2026</sub>
-
-### AI/ML Intern — Elixir Softwares
-
-Contributed to Sizzle AI, a restaurant business analytics platform developed with a three-member team.
-
-Worked on Django application development and machine learning models for sales and demand forecasting, customer segmentation, churn analysis, and menu engineering.
-
-**Models:** Decision Tree · Random Forest · Prophet · XGBoost
-
-</td>
-</tr>
-</table>
-
-## GitHub activity
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Adhil-KR&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=00000000" alt="GitHub Stats"/>
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Adhil-KR&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-
-  <br/>
-
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Adhil-KR&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&bg_color=00000000&langs_count=6" alt="Top Languages"/>
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+- 🎓 MCA student at Mar Athanasius College of Engineering, specializing in Data Science and Artificial Intelligence.
+- 💻 Interested in full-stack development, machine learning, and data-driven applications.
+- 🤖 Experienced in developing web applications and integrating machine learning models through academic projects.
+- 🌱 Continuously learning and exploring new technologies to improve my development skills.
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-  <sub>OPEN TO LEARNING · COLLABORATION · NEW OPPORTUNITIES</sub>
+  <h4>Programming Languages</h4>
 
-  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" alt="Programming Languages"/>
 
-  <a href="https://github.com/Muhammed-Adhil-KR">
-    <img src="https://img.shields.io/badge/Explore%20my%20work-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
+  <h4>Web & Mobile Development</h4>
+
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,express,flutter,html,css,php&theme=dark" alt="Web and Mobile Development"/>
+
+  <h4>Databases</h4>
+
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="Databases"/>
+
+  <h4>Tools & Platforms</h4>
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools and Platforms"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☀️ SmartSolar</h3>
+      <p><b>Intelligent Decision Support System for Solar Energy</b></p>
+      <p>
+        A Django-based application that predicts next-day household solar generation using weather forecasts and machine learning.
+      </p>
+      <ul>
+        <li>Appliance scheduling recommendations</li>
+        <li>Battery and grid usage suggestions</li>
+        <li>Estimated cost savings and CO₂ reduction</li>
+      </ul>
+      <p>
+        <b>Tech:</b> Python, Django, Machine Learning, SQLite, Bootstrap
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 FoundIt</h3>
+      <p><b>Campus Lost & Found Application</b></p>
+      <p>
+        A Flutter application that helps students report and discover lost or found belongings on campus.
+      </p>
+      <ul>
+        <li>Post lost and found items</li>
+        <li>Share item details, location, and date</li>
+        <li>Manage posts and mark items as resolved</li>
+      </ul>
+      <p>
+        <b>Tech:</b> Flutter, Firebase Authentication, Firestore
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Pathway AI</h3>
+      <p><b>AI-Based Career Guidance System</b></p>
+      <p>
+        A career guidance application that predicts suitable career paths from student CVs and provides personalized recommendations.
+      </p>
+      <ul>
+        <li>Machine learning-based career prediction</li>
+        <li>Course, college, and job recommendations</li>
+        <li>Job application modules</li>
+      </ul>
+      <p>
+        <b>Tech:</b> Python, Django, Machine Learning, Flutter, MySQL
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏋️ Fitness Tracker</h3>
+      <p><b>Full Stack Fitness Tracking Application</b></p>
+      <p>
+        A web application for monitoring daily activities, tracking fitness goals, and managing personal health metrics.
+      </p>
+      <ul>
+        <li>User authentication and activity logging</li>
+        <li>Fitness goal management</li>
+        <li>Interactive dashboard and data visualization</li>
+      </ul>
+      <p>
+        <b>Tech:</b> React.js, Node.js, Express.js, MySQL
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Adhil-KR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Adhil-KR&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+  <br/>
+
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Adhil-KR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Muhammed-Adhil-KR/Muhammed-Adhil-KR/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  <p>
+    I'm always interested in learning, collaborating, and working on meaningful projects.
+  </p>
+
+  <a href="http://www.linkedin.com/in/Muhammed-Adhil-KR">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mhdadhil346@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <br/><br/>
 
-  <sub>Made with curiosity, built through practice.</sub>
+  <i>Building, learning, and improving — one project at a time.</i>
 
 </div>
